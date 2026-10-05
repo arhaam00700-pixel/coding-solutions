@@ -50,7 +50,7 @@ Note: Input/ouput will be automatically handled. You only have to complete the f
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T15:50:28.221Z  
+**Submitted:** 2026-10-05T15:53:07.830Z  
 
 ```c
 #include <stdio.h>
